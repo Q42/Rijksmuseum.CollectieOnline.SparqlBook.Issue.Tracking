@@ -9,14 +9,20 @@ assignees: jorisbr
 
 The currently implemented properties can be found [here](https://github.com/Q42/Rijksmuseum.CollectieOnline.SparqlBook.Issue.Tracking/blob/main/properties.md).
 
-### Describe the bug and/or desired behavior
+## Describe the bug and/or desired behavior
 
-### Relevant examples
+## Relevant examples
 
-| Rijksstudio links    | Collectie Online links |
-| -------- | ------- |
-| | |
-| | |
+Rijksstudio links:
 
+1.
+2.
 
-### Screenshots
+Collectie Online links:
+
+1.
+2.
+
+---
+## Screenshots
+
