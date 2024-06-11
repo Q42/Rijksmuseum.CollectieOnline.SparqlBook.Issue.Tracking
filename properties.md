@@ -7,6 +7,7 @@
 - madeCopiedAfterMaker
 - depictsPerson
 - madePossiblyMaker
+- labelDescription
 - madeInPresentingDate
 - isPartOfObject
 - madeAfterMaker
@@ -32,6 +33,7 @@
 - usedMaterial
 - isSignedByPerson
 - depictsIconclass
+- labelMaker
 - catalogueEntryTitle
 - makerFullRole
 - hasInvolvedActorMaker
