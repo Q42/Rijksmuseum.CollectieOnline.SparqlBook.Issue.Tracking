@@ -11,8 +11,12 @@ assignees: jorisbr
 A clear and concise description of what the bug is.
 
 **Relevant example**
-Rijksstudio link:
-Collectie Online link/screenshot:
+Rijksstudio links:
+- 
+Collectie Online links:
+- 
+
+**Screenshots**
 
 **Expected content**
 A clear and concise description of the content you expect to see.
