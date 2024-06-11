@@ -9,6 +9,7 @@ assignees: jorisbr
 
 **Describe the bug or desired behavior**
 A clear and concise description of what the bug is.
+The currently implemented properties can be found [here](https://github.com/Q42/Rijksmuseum.CollectieOnline.SparqlBook.Issue.Tracking/blob/main/properties.md).
 
 **Relevant example**
 Rijksstudio links:
