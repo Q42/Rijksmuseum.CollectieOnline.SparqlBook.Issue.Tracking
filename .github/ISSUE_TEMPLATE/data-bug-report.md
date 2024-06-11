@@ -7,18 +7,16 @@ assignees: jorisbr
 
 ---
 
-**Describe the bug or desired behavior**
-A clear and concise description of what the bug is.
-
 The currently implemented properties can be found [here](https://github.com/Q42/Rijksmuseum.CollectieOnline.SparqlBook.Issue.Tracking/blob/main/properties.md).
 
-**Relevant example**
-Rijksstudio links:
-- 
-Collectie Online links:
-- 
+### Describe the bug and/or desired behavior
 
-**Screenshots**
+### Relevant examples
 
-**Expected content**
-A clear and concise description of the content you expect to see.
+| Rijksstudio links    | Collectie Online links |
+| -------- | ------- |
+| | |
+| | |
+
+
+### Screenshots
