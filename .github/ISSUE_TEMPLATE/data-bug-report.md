@@ -7,8 +7,6 @@ assignees: jorisbr
 
 ---
 
-__Please place the property name in the title__
-
 **Describe the bug or desired behavior**
 A clear and concise description of what the bug is.
 
