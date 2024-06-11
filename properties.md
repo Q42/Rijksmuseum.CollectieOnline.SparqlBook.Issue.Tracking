@@ -51,6 +51,7 @@
 - formerTitle
 - madeFalsifiedAfterMaker
 - madeFreeAfterMaker
+- inscription
 ### Library properties
 - HasContributor
 - PhysicalDescription
