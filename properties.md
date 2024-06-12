@@ -4,6 +4,7 @@
 - qualifiedMaker
 - depictsPlace
 - madeInMannerOfMaker
+- provenanceOwnedBy
 - madeCopiedAfterMaker
 - depictsPerson
 - madePossiblyMaker
@@ -33,7 +34,9 @@
 - usedMaterial
 - isSignedByPerson
 - depictsIconclass
+- provenanceAcquisitionMethod
 - labelMaker
+- provenanceCreditLine
 - catalogueEntryTitle
 - makerFullRole
 - hasInvolvedActorMaker
@@ -51,7 +54,9 @@
 - preferredTitle
 - hasObjectType
 - formerTitle
+- copyright
 - madeFalsifiedAfterMaker
+- provenanceText
 - madeFreeAfterMaker
 - inscription
 ### Library properties
