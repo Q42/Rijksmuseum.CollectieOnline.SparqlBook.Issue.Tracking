@@ -1,3 +1,7 @@
+## Properties List
+
+_Last synced: 12-06-2024 11:06:59_
+
 ### Collection properties
 - hasSubject
 - madeFollowedAfterMaker
