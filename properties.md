@@ -4,6 +4,7 @@
 - qualifiedMaker
 - depictsPlace
 - madeInMannerOfMaker
+- labelTitle
 - provenanceOwnedBy
 - madeCopiedAfterMaker
 - depictsPerson
