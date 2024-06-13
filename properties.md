@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 13-06-2024 10:37:31_
+_Last synced: 13-06-2024 12:48:41_
 
 ### Collection properties
 - hasSubject
@@ -19,6 +19,7 @@ _Last synced: 13-06-2024 10:37:31_
 - madeAfterMaker
 - originalTitle
 - hasPrimaryPersonMaker
+- isParentOfObject
 - hasLibraryDocumentation
 - depictsObjectType
 - objectNumber
