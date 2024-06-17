@@ -2,7 +2,7 @@
 name: Data bug report
 about: Create a report to help us improve
 title: "[Property name] - [Description of problem]"
-labels: ''
+labels: Needs Assessment
 assignees: jorisbr
 
 ---
@@ -25,4 +25,3 @@ Collectie Online links:
 
 ---
 ## Screenshots
-
