@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 19-06-2024 11:13:54_
+_Last synced: 19-06-2024 11:26:57_
 
 ### Collection properties
 - hasSubject
