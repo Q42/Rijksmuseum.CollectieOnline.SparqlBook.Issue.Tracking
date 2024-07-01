@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 25-06-2024 14:21:01_
+_Last synced: 01-07-2024 15:36:06_
 
 ### Collection properties
 - titles
