@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 15-08-2024 12:08:26_
+_Last synced: 15-08-2024 15:10:23_
 
 ### Collection properties
 - madeAttributedToMaker
@@ -68,7 +68,7 @@ _Last synced: 15-08-2024 12:08:26_
 ### Library properties
 - HasContributor
 - IsAboutPlace
-- CreatedOnDate
+- HasPublicationYear
 - HasAuthorOrganization
 - IsPartOfObject
 - Title
