@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 15-08-2024 15:37:16_
+_Last synced: 15-08-2024 15:43:38_
 
 ### Collection properties
 - madeAttributedToMaker
@@ -79,6 +79,7 @@ _Last synced: 15-08-2024 15:37:16_
 - HasPublicationLanguage
 - PhysicalDescription
 - HasGenre
+- IsAboutHumanMadeObject
 - HasAbstract
 - HasAuthorPerson
 - FullPublicationEvent
