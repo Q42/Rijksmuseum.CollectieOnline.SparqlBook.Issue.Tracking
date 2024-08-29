@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 20-08-2024 09:22:19_
+_Last synced: 29-08-2024 09:14:02_
 
 ### Collection properties
 - madeAttributedToMaker
