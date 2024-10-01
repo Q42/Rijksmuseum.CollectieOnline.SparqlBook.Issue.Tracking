@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 30-09-2024 15:10:27_
+_Last synced: 01-10-2024 11:05:19_
 
 ### Collection properties
 - hasPrimaryPersonMaker
@@ -50,6 +50,7 @@ _Last synced: 30-09-2024 15:10:27_
 - isRelatedToObject
 - depictsPerson
 - madeFalsifiedAfterMaker
+- copyNumber
 - madeInPlace
 - madeInPeriod
 - inscription
