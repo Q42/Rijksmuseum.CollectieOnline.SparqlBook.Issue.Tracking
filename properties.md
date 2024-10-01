@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 01-10-2024 11:05:19_
+_Last synced: 01-10-2024 11:41:11_
 
 ### Collection properties
 - hasPrimaryPersonMaker
@@ -87,5 +87,6 @@ _Last synced: 01-10-2024 11:05:19_
 - IsAboutSubject
 - HasPublicationLanguage
 - IsAboutPerson
+- HasEditor
 - Title
 ### Archive properties
