@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 01-10-2024 11:41:11_
+_Last synced: 01-10-2024 16:25:13_
 
 ### Collection properties
 - hasPrimaryPersonMaker
@@ -85,6 +85,7 @@ _Last synced: 01-10-2024 11:41:11_
 - IsPartOfObject
 - DescriptiveNote
 - IsAboutSubject
+- HasIllustrator
 - HasPublicationLanguage
 - IsAboutPerson
 - HasEditor
