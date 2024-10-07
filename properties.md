@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 07-10-2024 11:25:36_
+_Last synced: 07-10-2024 12:53:57_
 
 ### Collection properties
 - hasPrimaryPersonMaker
@@ -19,12 +19,12 @@ _Last synced: 07-10-2024 11:25:36_
 - isParentOfObject
 - qualifiedMaker
 - hasMuseumLocation
-- hasDimensions
 - depictsObjectType
 - shownInExhibition
 - hasDocumentation
 - madeFreeAfterMaker
 - descriptiveNote
+- dimensions
 - madeInCentury
 - madeInMannerOfMaker
 - hasMakerRole
