@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 01-10-2024 16:25:13_
+_Last synced: 07-10-2024 11:25:36_
 
 ### Collection properties
 - hasPrimaryPersonMaker
@@ -58,6 +58,7 @@ _Last synced: 01-10-2024 16:25:13_
 - copyright
 - isPartOfObject
 - hasStyle
+- provenanceRemarks
 - hasLibraryDocumentation
 - depictsIconclass
 - hasObjectType
