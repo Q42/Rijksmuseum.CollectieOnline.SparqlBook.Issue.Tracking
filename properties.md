@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 07-10-2024 12:53:57_
+_Last synced: 07-10-2024 12:54:15_
 
 ### Collection properties
 - hasPrimaryPersonMaker
@@ -75,11 +75,13 @@ _Last synced: 07-10-2024 12:53:57_
 - HasAuthorOrganization
 - Content
 - HasContributor
+- TemporalCoverageNote
 - PhysicalDescription
 - HasPublicationYear
 - HasGenre
 - IsAboutHumanMadeObject
 - Isbn
+- TemporalCoverageDate
 - FullPublicationEvent
 - HasAuthorPerson
 - Url
