@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 07-10-2024 12:54:15_
+_Last synced: 08-10-2024 14:54:26_
 
 ### Collection properties
 - hasPrimaryPersonMaker
@@ -39,13 +39,13 @@ _Last synced: 07-10-2024 12:54:15_
 - hasModification
 - madeInPresentingDate
 - labelMaker
-- provenanceAcquisitionMethod
 - titles
 - labelTitle
 - hasInvolvedPersonMaker
 - usedMaterial
 - originalTitle
 - hasMentionedPerson
+- provenanceAcquisition
 - catalogueEntryTitle
 - isRelatedToObject
 - depictsPerson
