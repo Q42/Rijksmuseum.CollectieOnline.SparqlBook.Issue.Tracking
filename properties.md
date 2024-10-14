@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 11-10-2024 16:02:25_
+_Last synced: 14-10-2024 09:19:58_
 
 ### Collection properties
 - labelDescription
