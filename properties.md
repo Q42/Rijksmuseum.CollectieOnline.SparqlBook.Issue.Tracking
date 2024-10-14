@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 14-10-2024 09:49:07_
+_Last synced: 14-10-2024 10:04:48_
 
 ### Collection properties
 - labelDescription
@@ -33,6 +33,7 @@ _Last synced: 14-10-2024 09:49:07_
 - madeFreeAfterMaker
 - dimensions
 - isPartOfObject
+- hasMuseumLocationHall
 - provenanceAcquisition
 - qualifiedMaker
 - madeInSortingYear
