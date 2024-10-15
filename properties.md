@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 14-10-2024 14:23:31_
+_Last synced: 15-10-2024 08:55:37_
 
 ### Collection properties
 - labelDescription
@@ -37,6 +37,7 @@ _Last synced: 14-10-2024 14:23:31_
 - provenanceAcquisition
 - qualifiedMaker
 - madeInSortingYear
+- catalogueReference
 - inscribedTitle
 - madeAttributedToMaker
 - madeInPlace
