@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 22-10-2024 14:07:05_
+_Last synced: 22-10-2024 16:29:59_
 
 ### Collection properties
 - labelDescription
@@ -84,8 +84,10 @@ _Last synced: 22-10-2024 14:07:05_
 - HasPublicationLanguage
 - HasAuthorPerson
 - HasAuthorOrganization
+- FullPartOfObject
 - HasEditor
 - HasIllustrator
+- IsParentOfObject
 - HasCreator
 - Url
 - Content
