@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 05-11-2024 16:41:49_
+_Last synced: 05-11-2024 16:52:05_
 
 ### Collection properties
 - labelDescription
@@ -12,12 +12,11 @@ _Last synced: 05-11-2024 16:41:49_
 - hasMakerRole
 - hasDocumentation
 - labelMaker
+- hasPrimaryMaker
 - madeFalsifiedAfterMaker
 - hasMuseumLocation
 - inscription
 - hasMentionedPerson
-- hasPrimaryActorMaker
-- hasInvolvedPersonMaker
 - copyright
 - madeAfterMaker
 - madeInPresentingDate
@@ -27,9 +26,9 @@ _Last synced: 05-11-2024 16:41:49_
 - provenanceText
 - labelTitle
 - originalTitle
+- hasInvolvedMaker
 - madeCopiedAfterMaker
 - depictsPlace
-- hasPrimaryPersonMaker
 - madeFreeAfterMaker
 - dimensions
 - isPartOfObject
@@ -62,7 +61,6 @@ _Last synced: 05-11-2024 16:41:49_
 - makerFullRole
 - depictsObjectType
 - madeFollowedAfterMaker
-- hasInvolvedActorMaker
 - madeInMannerOfMaker
 - usedTechnique
 - titles
@@ -82,10 +80,9 @@ _Last synced: 05-11-2024 16:41:49_
 - IsPartOfObject
 - HasAbstract
 - HasPublicationLanguage
-- HasAuthorPerson
-- HasAuthorOrganization
 - FullPartOfObject
 - HasEditor
+- HasAuthor
 - HasIllustrator
 - IsParentOfObject
 - HasCreator
