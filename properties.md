@@ -1,15 +1,15 @@
 ## Properties List
 
-_Last synced: 06-11-2024 10:05:00_
+_Last synced: 06-11-2024 12:47:09_
 
 ### Collection properties
 - labelDescription
 - objectNumber
 - depictsIconclass
+- documentation
 - preferredTitle
 - provenanceCreditLine
 - hasMakerRole
-- hasDocumentation
 - labelMaker
 - hasPrimaryMaker
 - madeFalsifiedAfterMaker
@@ -27,6 +27,7 @@ _Last synced: 06-11-2024 10:05:00_
 - originalTitle
 - hasInvolvedMaker
 - madeCopiedAfterMaker
+- depictsFigure
 - isSignedBy
 - depictsPlace
 - madeFreeAfterMaker
@@ -66,7 +67,6 @@ _Last synced: 06-11-2024 10:05:00_
 - titles
 - madeInPeriod
 - formerTitle
-- depictsPerson
 ### Library properties
 - DescriptiveNote
 - HasPublicationYear
@@ -76,9 +76,9 @@ _Last synced: 06-11-2024 10:05:00_
 - PhysicalDescription
 - Isbn
 - HasContributor
+- Abstract
 - IsAboutPerson
 - IsPartOfObject
-- HasAbstract
 - HasPublicationLanguage
 - FullPartOfObject
 - HasEditor
