@@ -1,12 +1,11 @@
 ## Properties List
 
-_Last synced: 05-11-2024 16:52:05_
+_Last synced: 06-11-2024 10:01:30_
 
 ### Collection properties
 - labelDescription
 - objectNumber
 - depictsIconclass
-- isSignedByPerson
 - preferredTitle
 - provenanceCreditLine
 - hasMakerRole
@@ -28,6 +27,7 @@ _Last synced: 05-11-2024 16:52:05_
 - originalTitle
 - hasInvolvedMaker
 - madeCopiedAfterMaker
+- isSignedBy
 - depictsPlace
 - madeFreeAfterMaker
 - dimensions
