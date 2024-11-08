@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 07-11-2024 17:04:13_
+_Last synced: 08-11-2024 11:54:40_
 
 ### Collection properties
 - labelDescription
@@ -73,6 +73,7 @@ _Last synced: 07-11-2024 17:04:13_
 - IsAboutSubject
 - IsAboutHumanMadeObject
 - TemporalCoverageNote
+- OtherTitle
 - PhysicalDescription
 - Isbn
 - HasContributor
