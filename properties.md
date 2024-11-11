@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 08-11-2024 13:43:01_
+_Last synced: 11-11-2024 19:46:18_
 
 ### Collection properties
 - labelDescription
@@ -59,6 +59,7 @@ _Last synced: 08-11-2024 13:43:01_
 - shownInExhibition
 - isRelatedToObject
 - hasLibraryDocumentation
+- madeRejectedMaker
 - makerFullRole
 - depictsObjectType
 - madeFollowedAfterMaker
