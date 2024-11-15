@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 15-11-2024 12:08:05_
+_Last synced: 15-11-2024 15:21:57_
 
 ### Collection properties
 - labelDescription
@@ -35,6 +35,7 @@ _Last synced: 15-11-2024 12:08:05_
 - isPartOfObject
 - hasMuseumLocationHall
 - provenanceAcquisition
+- partProductionPresentingLine
 - qualifiedMaker
 - madeInSortingYear
 - catalogueReference
@@ -60,6 +61,7 @@ _Last synced: 15-11-2024 12:08:05_
 - isRelatedToObject
 - hasLibraryDocumentation
 - madeRejectedMaker
+- productionPresentingLine
 - makerFullRole
 - depictsObjectType
 - madeFollowedAfterMaker
