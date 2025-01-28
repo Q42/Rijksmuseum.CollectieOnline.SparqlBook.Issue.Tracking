@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 28-01-2025 09:16:09_
+_Last synced: 28-01-2025 09:16:46_
 
 ### Collection properties
 - formerTitle
@@ -14,6 +14,7 @@ _Last synced: 28-01-2025 09:16:09_
 - usedTechnique
 - depictsObjectType
 - inscribedTitle
+- seriesTitle
 - copyright
 - isParentOfObject
 - madeFreeAfterMaker
