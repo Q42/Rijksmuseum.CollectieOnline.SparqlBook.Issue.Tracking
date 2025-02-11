@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 11-02-2025 09:11:13_
+_Last synced: 11-02-2025 10:48:50_
 
 ### Collection properties
 - formerTitle
@@ -90,6 +90,7 @@ _Last synced: 11-02-2025 09:11:13_
 - IsAboutHumanMadeObject
 - HasAuthor
 - HasIllustrator
+- SeriesNumbering
 - Abstract
 - FullPartOfObject
 - Url
