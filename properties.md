@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 11-02-2025 10:48:50_
+_Last synced: 11-02-2025 10:49:01_
 
 ### Collection properties
 - formerTitle
