@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 13-02-2025 16:03:30_
+_Last synced: 13-02-2025 17:02:28_
 
 ### Collection properties
 - inscribedTitle
