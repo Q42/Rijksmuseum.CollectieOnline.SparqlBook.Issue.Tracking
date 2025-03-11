@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 11-03-2025 09:33:40_
+_Last synced: 11-03-2025 09:42:56_
 
 ### Collection properties
 - depictsFigure
@@ -89,6 +89,7 @@ _Last synced: 11-03-2025 09:33:40_
 - HasCreator
 - HasContributor
 - Isbn
+- Issn
 - TemporalCoverageNote
 - FullPartOfObject
 - HasEditor
