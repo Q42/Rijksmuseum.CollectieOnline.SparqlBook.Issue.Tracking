@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 11-03-2025 09:42:56_
+_Last synced: 11-03-2025 10:18:19_
 
 ### Collection properties
 - depictsFigure
@@ -47,6 +47,7 @@ _Last synced: 11-03-2025 09:42:56_
 - hasCatalogue
 - isRelatedToObject
 - formerTitle
+- hasFullMuseumLocation
 - madeCopiedAfterMaker
 - catalogueEntryTitle
 - labelDescription
