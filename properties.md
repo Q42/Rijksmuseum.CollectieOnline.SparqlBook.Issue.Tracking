@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 11-03-2025 12:15:42_
+_Last synced: 11-03-2025 12:18:43_
 
 ### Collection properties
 - depictsFigure
