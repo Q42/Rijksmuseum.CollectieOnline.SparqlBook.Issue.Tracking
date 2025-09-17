@@ -1,6 +1,6 @@
 ## Properties List
 
-_Last synced: 17-09-2025 09:56:34_
+_Last synced: 17-09-2025 10:01:13_
 
 ### Collection properties
 - catalogueEntryTitle
